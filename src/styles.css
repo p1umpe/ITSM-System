@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+  font-family: Roboto, sans-serif;
+  color: #18212f;
+  background: #f4f7fb;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  min-width: 320px;
+}
